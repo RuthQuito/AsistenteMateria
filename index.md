@@ -1,4 +1,4 @@
-## Welcome mi friends!
+## Welcome mi friends :3!
 
 En este sitio vas a encontrar un chatbot donde puedes consultar dudas sobre la arquitectura del sofware. Espero que tu pregunta sea contestada de manera correctaaa :D
 
